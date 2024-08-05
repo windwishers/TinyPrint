@@ -15,4 +15,4 @@
    
 
 ## more example
-show Main.kt [link]()
+show Main.kt [link](src/main/kotlin/fail/toepic/tinyprint/Main.kt)
